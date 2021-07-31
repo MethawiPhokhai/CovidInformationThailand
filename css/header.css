@@ -75,3 +75,7 @@
     background-image: url('../images/worldometers-logo.gif');
     background-size: 100% 30% ;
 }
+
+img {
+    border: 0;
+}

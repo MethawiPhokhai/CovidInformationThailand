@@ -197,7 +197,3 @@
     background-image: url('../images/tw-who.png');
     background-size: 60% 100% ;
 }
-
-a {
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-}
