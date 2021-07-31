@@ -77,3 +77,6 @@
     background-size: 100% 30% ;
 }
 
+a {
+    background: transparent;
+}
