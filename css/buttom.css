@@ -100,12 +100,6 @@
 
 }
 
-@media screen and (max-width: 600px) {
-    .facebook-text, .twitter-text {
-        display: none;
-    }
-}
-
 .twitter-sub-container {
     display: flex;
     flex-direction: row;
@@ -122,78 +116,3 @@
     }
 }
 
-
-/* Facebook */
-.fb-sata-icon {
-    background: #4867AA;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/fb-sata.png');
-    background-size: 60% 100% ;
-}
-
-.fb-datacenter-icon {
-    background: #4867AA;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/fb-datacenter.png');
-    background-size: 60% 100% ;
-}
-
-.fb-dms-icon {
-    background: #4867AA;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/fb-dms.png');
-    background-size: 60% 100% ;
-}
-
-.fb-who-icon {
-    background: #4867AA;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/fb-who.png');
-    background-size: 60% 100% ;
-}
-
-
-/* Twitter */
-.tw-sata-icon {
-    background: #3FCDFD;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/tw-sata.png');
-    background-size: 60% 100% ;
-}
-
-.tw-datacenter-icon {
-    background: #3FCDFD;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/tw-datacenter.png');
-    background-size: 60% 100% ;
-}
-
-.tw-dms-icon {
-    background: #3FCDFD;
-    background-repeat: no-repeat;
-    background-position: center;
-
-    background-image: url('../images/tw-dms.png');
-    background-size: 60% 100% ;
-}
-
-.tw-who-icon {
-    background: #3FCDFD;
-    background-repeat: no-repeat;
-    background-position: center;
-    
-    background-image: url('../images/tw-who.png');
-    background-size: 60% 100% ;
-}
